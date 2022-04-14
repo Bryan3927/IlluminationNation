@@ -1,7 +1,0 @@
-C:\Users\bryan\Classes\6.115\FinalProject\FinalProject\Test.cydsn\Test.cyprj|367d2e3c-ca0c-4f85-ac83-0c98fc2f130f
-C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|eb5cd510-3237-4787-8c88-f474fda9c2e7
-C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|79746956-6e22-408b-b1c8-80bc257f031c
-C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|67ba69c1-a463-424c-a8b6-809bfb693838
-C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|5b844df4-b009-45ec-b604-bf66950de2dd
-C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|fc70dd70-0969-4fff-8be9-f38806b891bd
-C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\dev\psoc3\AnalogDevice\PSoC35AnalogDevice.cylib\PSoC35AnalogDevice.cyprj|ab6328e7-c2c4-4b13-ba82-cc2188e4572f
